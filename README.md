@@ -3,7 +3,7 @@
 
 # Hi ! I'm Fedi Mhenni
 
-#### `Full Stack Developer` · `Student at .Decode`
+#### `Full Stack Developer` 
 
 <img src="https://img.shields.io/badge/-Designing%20and%20building%20modern%2C%20scalable%20applications-0d1117?style=flat-square&labelColor=0d1117&color=7c9eff" alt="tagline"/>
 
@@ -18,7 +18,7 @@
 <!-- ====================== ABOUT ====================== -->
 ## 👋 About me
 
-Web Developer focused on building secure, scalable, and modern digital experiences. Passionate about software engineering, problem solving, and continuous learning. I enjoy transforming complex ideas into clean and efficient applications — while exploring fields like artificial intelligence and system architecture.
+Web Developer focused on building secure, scalable, and modern digital experiences. Passionate about software engineering, problem solving, and continuous learning. I enjoy transforming complex ideas into clean and efficient applications while exploring fields like artificial intelligence and system architecture.
 
 ```js
 const fedi = {
@@ -31,63 +31,6 @@ const fedi = {
 };
 ```
 
-<!-- ====================== WHAT I DO ====================== -->
-## 🚀 What I do
-
-<table align="center">
-  <tr>
-    <td valign="top" width="33%">
-      <b>🔧 Backend Development</b><br/><br/>
-      PHP (OOP)<br/>
-      Laravel<br/>
-      Java<br/>
-      C Language
-    </td>
-    <td valign="top" width="33%">
-      <b>🎨 Frontend Development</b><br/><br/>
-      JavaScript<br/>
-      HTML / CSS3
-    </td>
-    <td valign="top" width="33%">
-      <b>🗄️ Database Management</b><br/><br/>
-      Advanced SQL<br/>
-      Oracle Database
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="33%">
-      <b>⚙️ DevOps & Systems</b><br/><br/>
-      Linux<br/>
-      Docker<br/>
-      Git & Version Control<br/>
-      Deployment & CI/CD
-    </td>
-    <td valign="top" width="33%">
-      <b>🔒 Cybersécurité</b><br/><br/>
-      Sécurisation des applications<br/>
-      Authentification & Autorisation<br/>
-      Sécurité des APIs<br/>
-      Protection des données
-    </td>
-    <td valign="top" width="33%">
-      <b>🤖 Intelligence Artificielle</b><br/><br/>
-      LangChain<br/>
-      Outils IA générative<br/>
-      Automatisation IA<br/>
-      Intégration IA dans des applications
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="33%">
-      <b>🎯 Design & Prototypage</b><br/><br/>
-      Figma Prototypes<br/>
-      UI/UX Design
-    </td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
-
 <!-- ====================== TECH STACK ====================== -->
 ## 🛠️ Tech Stack
 
@@ -97,17 +40,6 @@ const fedi = {
 
 </div>
 
-<!-- ====================== STATS ====================== -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Fedi-Mhenni&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c9eff&icon_color=5ecbb0"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fedi-Mhenni&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c9eff"/>
-
-<img src="https://streak-stats.demolab.com?user=Fedi-Mhenni&theme=tokyonight&hide_border=true&background=0d1117&ring=7c9eff&fire=5ecbb0&currStreakLabel=7c9eff" alt="streak"/>
-
-</div>
 
 <!-- ====================== CONTRIBUTIONS ====================== -->
 ## 🐍 Contribution Graph
