@@ -1,11 +1,11 @@
 <!-- ====================== HEADER ====================== -->
 <div align="center">
 
-# Fedi Mhenni
+# Hi ! I'm Fedi Mhenni
 
-#### `Étudiant en développement web` · `Curieux de technologie` · `Passionné d'IA & d'innovation`
+#### `Full Stack Developer` · `Student at .Decode`
 
-<img src="https://img.shields.io/badge/-First%20make%20it%20work%2C%20then%20make%20it%20smart%2C%20then%20make%20it%20beautiful-0d1117?style=flat-square&labelColor=0d1117&color=7c9eff" alt="tagline"/>
+<img src="https://img.shields.io/badge/-Designing%20and%20building%20modern%2C%20scalable%20applications-0d1117?style=flat-square&labelColor=0d1117&color=7c9eff" alt="tagline"/>
 
 <br/>
 
@@ -16,58 +16,89 @@
 </div>
 
 <!-- ====================== ABOUT ====================== -->
-## 👋 À propos
+## 👋 About me
+
+Web Developer focused on building secure, scalable, and modern digital experiences. Passionate about software engineering, problem solving, and continuous learning. I enjoy transforming complex ideas into clean and efficient applications — while exploring fields like artificial intelligence and system architecture.
 
 ```js
 const fedi = {
-  based:      "🇫🇷 Paris, France",
-  studies:    "Développement web",
-  curious:    ["Intelligence artificielle", "innovation tech", "automatisation"],
-  builds:     ["du web", "des outils qui simplifient la vie", "des side-projects pour apprendre"],
-  philosophy: "First make it work, then make it smart, then make it beautiful.",
+  role:      "Full Stack Developer",
+  studying:  ".Decode",
+  based:     "🇫🇷 Paris, France",
+  loves:     ["clean architecture", "problem solving", "continuous learning"],
+  exploring: ["Intelligence Artificielle", "Cybersécurité", "System Architecture"],
+  motto:     "First make it work, then make it smart, then make it beautiful.",
 };
 ```
 
-- 🎓 En cours d'apprentissage du développement web, du back au front
-- 🤖 Curieux de tout ce qui touche à l'IA et à la manière dont elle change la façon de coder
-- 🛠️ J'apprends en construisant : chaque repo ci-dessous est un pas de plus
-- 📬 Ouvert aux échanges, stages et opportunités — n'hésite pas à me contacter sur LinkedIn
+<!-- ====================== WHAT I DO ====================== -->
+## 🚀 What I do
 
-<!-- ====================== TECH STACK ====================== -->
-## 🛠️ Stack & outils
-
-<table align="left">
+<table align="center">
   <tr>
-    <td align="center" width="140"><b>Langages</b></td>
-    <td align="left">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,python,php,html,css&theme=dark" alt="langages"/></a>
+    <td valign="top" width="33%">
+      <b>🔧 Backend Development</b><br/><br/>
+      PHP (OOP)<br/>
+      Laravel<br/>
+      Java<br/>
+      C Language
+    </td>
+    <td valign="top" width="33%">
+      <b>🎨 Frontend Development</b><br/><br/>
+      JavaScript<br/>
+      HTML / CSS3
+    </td>
+    <td valign="top" width="33%">
+      <b>🗄️ Database Management</b><br/><br/>
+      Advanced SQL<br/>
+      Oracle Database
     </td>
   </tr>
   <tr>
-    <td align="center" width="140"><b>Frameworks</b></td>
-    <td align="left">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" alt="frameworks"/></a>
+    <td valign="top" width="33%">
+      <b>⚙️ DevOps & Systems</b><br/><br/>
+      Linux<br/>
+      Docker<br/>
+      Git & Version Control<br/>
+      Deployment & CI/CD
+    </td>
+    <td valign="top" width="33%">
+      <b>🔒 Cybersécurité</b><br/><br/>
+      Sécurisation des applications<br/>
+      Authentification & Autorisation<br/>
+      Sécurité des APIs<br/>
+      Protection des données
+    </td>
+    <td valign="top" width="33%">
+      <b>🤖 Intelligence Artificielle</b><br/><br/>
+      LangChain<br/>
+      Outils IA générative<br/>
+      Automatisation IA<br/>
+      Intégration IA dans des applications
     </td>
   </tr>
   <tr>
-    <td align="center" width="140"><b>Outils</b></td>
-    <td align="left">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="outils"/></a>
+    <td valign="top" width="33%">
+      <b>🎯 Design & Prototypage</b><br/><br/>
+      Figma Prototypes<br/>
+      UI/UX Design
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="140"><b>En exploration</b></td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/IA%20%2F%20LLMs-6366f1?style=flat-square&logoColor=white" alt="IA / LLMs" height="28"/>
-      <img src="https://img.shields.io/badge/Automatisation-06b6d4?style=flat-square&logoColor=white" alt="Automatisation" height="28"/>
-    </td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
-<br clear="all"/>
+<!-- ====================== TECH STACK ====================== -->
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=php,laravel,java,c,js,html,css,oracle,linux,docker,git,github,figma&theme=dark" alt="tech stack"/>
+
+</div>
 
 <!-- ====================== STATS ====================== -->
-## 📊 Statistiques GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -79,7 +110,7 @@ const fedi = {
 </div>
 
 <!-- ====================== CONTRIBUTIONS ====================== -->
-## 🐍 Graphe de contributions
+## 🐍 Contribution Graph
 
 <div align="center">
 
@@ -92,16 +123,16 @@ const fedi = {
 </div>
 
 <!-- ====================== FOOTER ====================== -->
-## 🤝 Discutons
+## 🤝 Let's connect
 
 ```bash
 $ whoami
-> Fedi Mhenni · étudiant dev web, curieux d'IA, toujours en train d'apprendre un truc nouveau
+> Fedi Mhenni · Full Stack Developer, student at .Decode, exploring AI & system architecture
 ```
 
 <div align="center">
 
-Si un de mes projets te parle, n'hésite pas à laisser une ⭐ ou à me contacter !
+If one of my projects speaks to you, feel free to drop a ⭐ or reach out!
 
 <a href="https://www.linkedin.com/in/fedi-mhenni/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
